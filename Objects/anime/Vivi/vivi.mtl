@@ -1,0 +1,210 @@
+# Blender MTL File: 'None'
+# Material Count: 16
+
+newmtl F00_000_00_EyeExtra_01_EYE.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Matcap_Rim.png
+map_Bump Shader_NoneNormal.png
+map_d F00_000_00_EyeExtra_01.png
+
+newmtl F00_000_00_EyeHighlight_00_EYE.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shader_NoneBlack.png
+map_Bump Shader_NoneNormal.png
+map_d F00_000_EyeHighlight_00.png
+
+newmtl F00_000_00_EyeIris_00_EYE.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shader_NoneBlack.png
+map_Bump Shader_NoneNormal.png
+map_d F00_000_EyeIris_00.png
+
+newmtl F00_000_00_EyeWhite_00_EYE.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shader_NoneBlack.png
+map_Bump Shader_NoneNormal.png
+map_d F00_000_EyeWhite_00.png
+
+newmtl F00_000_00_FaceBrow_00_FACE.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.394103 0.265595 0.212154
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shader_NoneBlack.png
+map_Bump Shader_NoneNormal.png
+map_d F00_000_FaceBrow_00.png
+
+newmtl F00_000_00_FaceEyelash_00_FACE.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.127169 0.018523 0.021857
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shader_NoneBlack.png
+map_Bump Shader_NoneNormal.png
+map_d F00_000_FaceEyelash_00.png
+
+newmtl F00_000_00_FaceEyeline_00_FACE.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.236208 0.036918 0.041936
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Matcap_Rim.png
+map_Bump Shader_NoneNormal.png
+map_d F00_000_FaceEyeline_00.png
+
+newmtl F00_000_00_FaceMouth_00_FACE.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Shader_NoneBlack.png
+map_Bump Shader_NoneNormal.png
+map_d F00_000_FaceMouth_00.png
+
+newmtl F00_000_00_Face_00_SKIN.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Matcap_Rim.png
+map_Bump F00_000_00_Face_00_nml.png
+map_d F00_000_Face_00.png
+
+newmtl F00_000_HairBack_00_HAIR.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.264555 0.139849 0.095446
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Matcap_RimHair.png
+map_Bump F00_000_HairBack_00_nml.png
+map_d F00_000_HairBack_00.png
+
+newmtl F00_000_Hair_00_HAIR_01.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.264555 0.139849 0.095446
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Matcap_RimHair.png
+map_Bump F00_000_Hair_00_nml.png
+map_d F00_000_Hair_00_01.png
+
+newmtl F00_000_Hair_00_HAIR_02.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.265961 0.139718 0.095631
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Matcap_RimHair.png
+map_Bump F00_000_Hair_00_nml.png
+map_d F00_000_Hair_00_02.png
+
+newmtl F00_000_Hair_00_HAIR_03.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.425602 0.128167 0.085445
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Matcap_RimHair.png
+map_Bump F00_000_Hair_00_nml.png
+map_d F00_000_Hair_00_03.png
+
+newmtl F00_002_01_Shoes_01_CLOTH.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Matcap_Rim.png
+map_Bump Shader_NoneNormal.png
+map_d F00_002_Shoes_01.png
+
+newmtl F00_002_01_Tops_01_CLOTH.002
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Matcap_Rim.png
+map_Bump Shader_NoneNormal.png
+map_d F00_002_Onepiece_01.png
+
+newmtl F00_002_02_Body_00_SKIN.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Matcap_Rim.png
+map_Bump F00_002_02_Body_00_nml.png
+map_d F00_002_Body_00.png
